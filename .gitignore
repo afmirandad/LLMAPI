@@ -1,3 +1,6 @@
+# Scripts de carga temporal
+data.py
+leer_excel.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
